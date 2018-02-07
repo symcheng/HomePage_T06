@@ -64,6 +64,9 @@ p {
   line-height: 27px;
   font-family: 'Roboto', sans-serif;
 }
+a {
+	target="_Blank"
+}
 ul,
 ol {
   margin: 0;
